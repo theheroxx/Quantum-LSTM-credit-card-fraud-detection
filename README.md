@@ -1,7 +1,7 @@
 # Quantum-LTSM-credit-card-fraud-detection
 # 🧠 Quantum-LSTM Fraud Detection
 
-This project explores a hybrid quantum-classical approach to credit card fraud detection using a Long Short-Term Memory (LSTM) neural network combined with quantum feature encoding.
+This project explores a hybrid quantum-classical approach to credit card fraud detection using a Long Short-Term Memory (LSTM) neural network combined with quantum feature encoding. The model could be improved, so also I'd be glad if you have any suggestions for me!
 
 ## 🚀 Overview
 
